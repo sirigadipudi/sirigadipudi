@@ -8,4 +8,4 @@ Thanks for visiting me. You should check out my blogs and if you want to contact
 
 ### Contact me
 
-[saivinashsattiraju@gmail.com](mailto:email@domain.com)
+[saivinashsattiraju@gmail.com](mailto:email@domain.com\)
