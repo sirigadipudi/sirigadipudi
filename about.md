@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Thanks for visiting me. You should check out my blogs and if you want to contact me personally you could always email me.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[saivinashsattiraju@gmail.com](mailto:email@domain.com)
