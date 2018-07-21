@@ -13,4 +13,4 @@ Thanks for visiting me. You should check out my blogs and if you want to contact
 
 
 ### Quote
-"Get the Facts first then you can distrot them as you please" - Mark Twain
+"Get the facts first and then you can distrot them as you please" - Mark Twain
