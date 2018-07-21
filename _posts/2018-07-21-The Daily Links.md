@@ -10,3 +10,10 @@ There seems to be a new development in the tech industry regarding data. But thi
 These questions need to be answered.
 The link for article which has appeared on the [verge](https://www.theverge.com/2018/7/20/17589246/data-transfer-project-google-facebook-microsoft-twitter).
 The Github code for the open source data project is [here](https://github.com/google/data-transfer-project) and [this](https://datatransferproject.dev/) is their website.
+
+
+** America if you are listening**
+
+There seems to be a general belief that Trump's "performance" in Helsinki was disgraceful. Can anyone please explain to me why it is called performance? Anyway in [this](https://www.washingtonpost.com/opinions/russia-might-have-been-lost-from-the-start/2018/07/19/e45c1a42-8b92-11e8-8aea-86e88ae760d8_story.html?utm_campaign=b4934ff195-EMAIL_CAMPAIGN_2018_07_20_06_14&utm_medium=email&utm_source=Fareed%27s%20Global%20Briefing&utm_term=.861e71fc1c3d) piece for the Washington Post, [Fareed Zakaria](https://www.washingtonpost.com/people/fareed-zakaria/?utm_term=.46407901aa92) argues that the reason Russia tries to undermine the west is the west. There is a trust gap between the west and Russia and it can be explained by the inability of west to be adaptive to Russian interests. This can be traced to the end of soviet union in early 1990s.
+
+
