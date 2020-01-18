@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Thanks for visiting me. You should check out my blogs and if you want to contact me personally you could always use email.
+Hi, I am a Master of Arts student in Economics at the [University of Texas at Austin](https://liberalarts.utexas.edu/economics/). I graduated with a Bachelor's degree (Bachelor of Technology) in Electronics and Communication Engineering from the [Indian Institute of Space Science and Technology](https://www.iist.ac.in/).  
+So far, I have worked on projects which have two things in common: they all involve a good level of programming challenges, and eventually can be linked to social science theory and applications. I have been fortunate enough to be able to get to work on such interesting projects.  
 
 
 ### Contact me
 
-[saivinashsattiraju@gmail.com](mailto:email@domain.com\)
+[saiavinashsattiraju@gmail.com](mailto:email@domain.com\)
 
 
 ### Quote
