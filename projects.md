@@ -1,7 +1,7 @@
-## Project-Portfolio
+### Project-Portfolio
 This is my portfolio of projects and assignments. Feel free to reach out to me with any questions or comments. 
 
-## List of Projects
+### List of Projects
 1. [Social Networks](https://github.com/10avinash/Project-Portfolio/tree/master/Social%20Networks): Effects of Interlocked Directors on Financial Performance [[**Accepted for Publication at IEEE Transactions on Computational Social Systems**]](https://ieeexplore.ieee.org/document/8960302)  
 Summary: The goal of this project is to estimate the financial effects of interlocked directors  
 Skills Used: Data Collection, Cleaning, and Visualization, Python, NetworkX, Matplotlib, gnuplot, LaTeX, Gephi
