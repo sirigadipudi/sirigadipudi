@@ -9,7 +9,7 @@ Hi, I am a Master of Arts in Economics student at the [University of Texas at Au
 So far, I have worked on projects which have two things in common: they all involve a good level of programming challenges, and eventually can be linked to social science theory and applications. I have been fortunate enough to be able to get to work on such [interesting projects](https://10avinash.github.io/projects/).  
 
 
-### Contact me
+### Contacting me
 Feel free to reach out to me if you need some additional information/context for my projects.  
 Email: [saiavinashsattiraju@gmail.com](mailto:email@domain.com\)  
   
