@@ -10,8 +10,8 @@ So far, I have worked on projects which have two things in common: they all invo
 
 
 ### Contact me
-Feel free to reach out to me if you need some additional information/context for my projects.
-[saiavinashsattiraju@gmail.com](mailto:email@domain.com\)  
+Feel free to reach out to me if you need some additional information/context for my projects.  
+Email: [saiavinashsattiraju@gmail.com](mailto:email@domain.com\)  
   
 ### Image Courtesy
 I have used, for the logo of this website, an image of one of my favourite content creators, the incredible [Grant Sanderson](https://www.3blue1brown.com/about). You might know him from his youtube channel: [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw). His channel explains advanced mathematical concepts intuitively and helps me internalise these ideas.
