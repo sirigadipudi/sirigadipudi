@@ -1,4 +1,3 @@
-### Project-Portfolio
 This is my portfolio of projects and assignments. Feel free to reach out to me with any questions or comments. 
 
 ### List of Projects
