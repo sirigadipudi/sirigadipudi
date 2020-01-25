@@ -28,5 +28,9 @@ Skills Used: Data Collection, Cleaning, and Visualization, Python, NetworkX, Mat
 Summary: nonparametric estimation of distribution of valuation in a sample of ascending button auctions assuming symmetric independent private values  
 Skills: NumPy, pandas, non parametric estimation, auction theory  
 
+4. [Data Management and Visualisation](https://github.com/10avinash/Data-Management-and-Visualisation)  
+Summary: The project is to learn the applicability of relational database language like MySQL and data visualisation tools like Tableau.
+Skiils: MySQL, Tableau
+
 
  
