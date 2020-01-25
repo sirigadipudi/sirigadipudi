@@ -29,8 +29,8 @@ Summary: nonparametric estimation of distribution of valuation in a sample of as
 Skills: NumPy, pandas, non parametric estimation, auction theory  
 
 4. [Data Management and Visualisation](https://github.com/10avinash/Data-Management-and-Visualisation)  
-Summary: The project is to learn the applicability of relational database language like MySQL and data visualisation tools like Tableau.
-Skiils: MySQL, Tableau
+Summary: The project is to learn the applicability of relational database language like MySQL and data visualisation tools like Tableau.  
+Skills: MySQL, Tableau
 
 
  
