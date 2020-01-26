@@ -1,4 +1,4 @@
-As someone who is actively pursuing full time post graduation roles, here are the qualities I bring to the table:  
+The skills I bring to the table:  
 1) Solid understanding of mathematics, probability, and statistics concepts.  
 2) Ability to program in Python, R, MATLAB, SQL, [Insert any language/tool here you need me to learn] to get the job done.  
 3) Interest in learning new technical concepts and tools.  
