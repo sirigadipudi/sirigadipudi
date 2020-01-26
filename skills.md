@@ -19,7 +19,7 @@ Some of my research interests:
 1) Reinforcement Learning applications to economics and finance.  
 2) Estimation of causal parameters using Bayesian modeling.    
 3) Time series forecasting using machine learning and econometrics.  
-3) Social networks for business and policy applications [[Link to my paper](https://ieeexplore.ieee.org/document/8960302)].    
+4) Social networks for business and policy applications [[Link to my paper](https://ieeexplore.ieee.org/document/8960302)].    
 
 What am I looking for in a job: Any role which is quantitative and helps me learn new stuff. I aspire to be surrounded by people 
 who are smarter and more knowledgable than me.  
