@@ -3,7 +3,7 @@ The skills I bring to the table:
 2) Ability to program in Python, R, MATLAB, SQL to get the job done.  
 3) Interest in learning new technical concepts and tools.  
   
-Some past coursework:  
+Relevant past coursework:  
 1) Optimisation and Operations Research        
 2) Deep Learning for Computational Data Science [Standard ML Algorithms, Neural Networks]  
 3) Mathematics for Economists [Multivariable Calculus and Linear Algebra]  
