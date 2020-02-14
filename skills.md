@@ -24,5 +24,5 @@ Some of my research interests:
 What am I looking for in a job: Any role which is quantitative and helps me learn new stuff. I aspire to be surrounded by people 
 who are smarter and more knowledgable than me.  
   
-Sample of roles I like: Data Scientist, Econometrician, Quantitative Researcher, Operations Research Analyst, Research Associate, 
+Sample of roles I like: Data Scientist, Econometrician, Quantitative Researcher, Operations Research Analyst, 
 Statistical Programmer, Data Analyst, Revenue Management Analyst, Pricing Analyst.
