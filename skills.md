@@ -1,4 +1,4 @@
-**Note: I have accepted an offer to be a Research Associate at Federal Reserve Bank of Kansas City after graduation. Will not consider any other opportunities right now.**  
+**Note: I have accepted an offer to be a Research Associate at Federal Reserve Bank of Kansas City after graduation. I will not consider any other opportunities right now.**  
   
   
     
