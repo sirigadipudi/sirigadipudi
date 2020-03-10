@@ -1,3 +1,7 @@
+Note: I have accepted an offer to be a Research Associate at Federal Reserve Bank of Kansas City.  
+  
+  
+    
 The skills I bring to the table:  
 1) Solid understanding of mathematics, probability, and statistics concepts.  
 2) Ability to program in Python, R, MATLAB, SQL to get the job done.  
@@ -21,8 +25,5 @@ Some of my research interests:
 * Time series forecasting using machine learning and econometrics.  
 * Social networks for business and policy applications [[Link to my paper](https://ieeexplore.ieee.org/document/8960302)].    
 
-What am I looking for in a job: Any role which is quantitative and helps me learn new stuff. I aspire to be surrounded by people 
+What I like in a job: Any role which is quantitative and helps me learn new stuff. I aspire to be surrounded by people 
 who are smarter and more knowledgable than me.  
-  
-Sample of roles I like: Data Scientist, Econometrician, Quantitative Researcher, Operations Research Analyst, 
-Statistical Programmer, Data Analyst, Revenue Management Analyst, Pricing Analyst.
