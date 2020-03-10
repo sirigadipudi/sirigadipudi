@@ -1,4 +1,4 @@
-Note: I have accepted an offer to be a Research Associate at Federal Reserve Bank of Kansas City.  
+**Note: I have accepted an offer to be a Research Associate at Federal Reserve Bank of Kansas City. **  
   
   
     
