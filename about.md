@@ -18,7 +18,7 @@ I have used, for the logo of this website, an image of one of my favourite conte
 
 ### What I am Reading   
 I came across [this](http://www.robertburns.org/works/) website which has the collections of the works of the great Scottish poet Robert Burns. I am reading his works inspired by [this](http://www.robertburns.org/works/416.shtml) poem.  
-I just finished reading "The Importance of Being Earnest" by Oscar Wilde. It is hilarious. [Link](http://www.gutenberg.org/files/844/844-h/844-h.htm)
+Just read "The Importance of Being Earnest" by Oscar Wilde. It is hilarious. [Link](http://www.gutenberg.org/files/844/844-h/844-h.htm)
 
 
 ### Quote
