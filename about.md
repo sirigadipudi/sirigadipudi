@@ -26,8 +26,9 @@ On my reading list are:
 1) Keeping at It by Paul Volcker    
                         2) Reporting by David Remnick (I am a big big fan of David Remnick and I think he is the smartest commentator there is in America)  
                         3) Firefighting by Ben Bernanke  
-                        4) House of Debt by Atif Milan and Amir Sufi
- other stuff:                   
+                        4) House of Debt by Atif Milan and Amir Sufi  
+                          
+Other Stuff:                     
 I came across [this](http://www.robertburns.org/works/) website which has the collections of the works of the great Scottish poet Robert Burns. I am reading his works inspired by [this](http://www.robertburns.org/works/416.shtml) poem.  
 Just read "The Importance of Being Earnest" by Oscar Wilde. It is hilarious. [Link](http://www.gutenberg.org/files/844/844-h/844-h.htm)
 
