@@ -22,7 +22,8 @@ I have used, for the logo of this website, an image of one of my favourite conte
 I am reading Doris Kearns Goodwin's fabulous book Team of Rivals. It is bulky but it is very interesting!    
 
 
-On my reading list are: 1) Keeping at It by Paul Volcker    
+On my reading list are:  
+1) Keeping at It by Paul Volcker    
                         2) Reporting by David Remnick (I am a big big fan of David Remnick and I think he is the smartest commentator there is in America)  
                         3) Firefighting by Ben Bernanke  
                         4) House of Debt by Atif Milan and Amir Sufi
