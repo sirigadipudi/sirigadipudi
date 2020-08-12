@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I am a Research Associate at the [Federal Reserve Bank of Kansas City](https://www.kansascityfed.org/). On the research side I support [Dr. Jordan Rappaport](https://www.kansascityfed.org/people/jordanrappaport) and [Dr. Amaze Lusompa](https://sites.google.com/uci.edu/amazelusompa).
+Hi, I am a Research Associate at the [Federal Reserve Bank of Kansas City](https://www.kansascityfed.org/). For research responsibilities I support [Dr. Jordan Rappaport](https://www.kansascityfed.org/people/jordanrappaport) and [Dr. Amaze Lusompa](https://sites.google.com/uci.edu/amazelusompa).
 
 I graduated in the spring of 2020 with a Master of Arts in Economics student at [The University of Texas at Austin](https://liberalarts.utexas.edu/economics/) . I have a bachelor's degree (Bachelor of Technology) in Electronics and Communication Engineering from the [Indian Institute of Space Science and Technology](https://www.iist.ac.in/).  
   
@@ -19,7 +19,7 @@ Email: [saiavinashsattiraju@gmail.com](mailto:email@domain.com\)
 I have used, for the logo of this website, an image of one of my favourite content creators, the incredible [Grant Sanderson](https://www.3blue1brown.com/about). You might know him from his YouTube channel: [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw). His channel explains advanced mathematical concepts intuitively and helps me internalise these ideas.
 
 ### What I am Reading   
-I am reading Doris Kearns Goodwin's fabulous book Team of Rivals. It is bulky but it is very interesting!  
+I am reading Doris Kearns Goodwin's fabulous book Team of Rivals. It is bulky but it is very interesting!    
 
 
 On my reading list are: 1) Keeping at It by Paul Volcker    
