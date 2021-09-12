@@ -1,11 +1,5 @@
 This is my portfolio of projects and assignments. Feel free to reach out to me with any questions or comments. 
 
-Current Projects (Outside of Work):  
-Working on a paper on simulating Soccer matches using network theory metrics. The goal is to develop a theoretical framework which will be helpful in doing statistical simulation of matches and compare players empirically outside of regular metrics. If you are soccer nerd (especially a soccer nerd with data) get in touch!  
-  
-  
-I also have a draft in the works on measuring the impact of inequality on asset pricing. Again, this is looking to develop a theoretical framework. I started working on this project during my masters program under the guidance of Dr. Daniel Neuhann in his Asset Pricing Class. Covid 19 sort of disrupted some work flow for it but I am really eager to continue working on it after sorting out some mathematical and programming bottlenecks. 
-
 
 ### List of Projects
 1. [Social Networks](https://github.com/10avinash/Project-Portfolio/tree/master/Social%20Networks): Effects of Interlocked Directors on Financial Performance [[**Accepted for Publication at IEEE Transactions on Computational Social Systems**]](https://ieeexplore.ieee.org/document/8960302)  
