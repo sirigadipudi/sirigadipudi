@@ -11,10 +11,10 @@ Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 2. DisMon-GAN: A 24x7, all-weather disaster monitoring tool for assisting ministries and rescue teams by providing seamless synthesised optical images from the information collected by microwave SAR data. [[**Under Review at Conference on Computer Vision and Pattern Recognition (CVPR)**]](https://cvpr2022.thecvf.com/)<br />
 Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 
-3. Land Use Land Cover Classification of Satellite Images using Deep Learning: This work discusses how high resolution satellite images are classified into various classes like cloud, vegetation, water and miscellaneous, using feed forward neural network. [**Source Code**](https://github.com/RohitGandikota/Land-Use-Land-Cover-Classification-of-Satellite-Images-using-Deep-Learning) <br />
+3. Land Use Land Cover Classification of Satellite Images using Deep Learning: This work discusses how high resolution satellite images are classified into various classes like cloud, vegetation, water and miscellaneous, using feed forward neural network. [[**Source Code**]](https://github.com/RohitGandikota/Land-Use-Land-Cover-Classification-of-Satellite-Images-using-Deep-Learning) <br />
 Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 
-4. Thematic layer generation from Sentinel Images using M2TGAN: In this work, we generate the thematic maps from satellite images. Here, we generate water bodies thematic and use both traditional Autoencoder and a Generative Adversarial Network (M2TGAN). [**Source Code**](https://github.com/RohitGandikota/Satellite-Images-to-thematic-maps-using-Generative-Adversarial-Networks.)<br />
+4. Thematic layer generation from Sentinel Images using M2TGAN: In this work, we generate the thematic maps from satellite images. Here, we generate water bodies thematic and use both traditional Autoencoder and a Generative Adversarial Network (M2TGAN). [[**Source Code**]](https://github.com/RohitGandikota/Satellite-Images-to-thematic-maps-using-Generative-Adversarial-Networks.)<br />
 Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 
 ## Image Processing
@@ -36,7 +36,7 @@ Tools used: Python, Seaborn, Plotly, Matplotlib, Pandas, Postgres
 
 2. Developing speech recongition extension for satellite specific lingo. Using open-sourced pre-trained LSTM networks to fine-tune for satellite data specific jargons. 
 
-3. API for bhoonidhi, ISRO's open data dissemination portal. [**Source Code**](https://github.com/RohitGandikota/BhoonidhiAPI)
+3. API for bhoonidhi, ISRO's open data dissemination portal. [[**Source Code**]](https://github.com/RohitGandikota/BhoonidhiAPI)
 
 # Research at Indian Institute of Space Science and Technology
 This is where my passion for machine learning was shaped into research. My work here mainly focused on basic understanding of deep learning architectures, their applications in computer vision applications (data hiding, image detection, autonomous vehicle vision, and face recognition) and a little bit of text processing and NLP.
