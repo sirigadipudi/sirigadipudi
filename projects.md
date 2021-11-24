@@ -21,7 +21,7 @@ Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 1. Automatic Satellite Quality Data Evaluation Algorithms: Automatic Image Quality Analysis (AIQA) has become a very crucial module in remote sensing industry. With increasing competition and institutions that provide remote sensing images, the quality of images provided to the users has a huge impact. This work provides advanced quality parameters like noise density, histogram statistics, radiometry paramters, geometry parameters, and LULC thematic information. <br />
 Technology Used: Python, Scipy, Sci-kit, Numba, PIL, GDAL, RasterIO
 
-2.A Novel Approach for Pixel Dropouts Localization: Commonly known as salt and pepper noise in the image processing terminology, pixel dropouts can be detected with many existing algorithms that usually tend to falsely detect edges as noise. To overcome this common problem, a novel 2-stage algorithm has been designed to detect salt and pepper noise in raw satellite imagery. [[**Under Review at IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22)**]](https://www.igarss2022.org/)<br />
+2. A Novel Approach for Pixel Dropouts Localization: Commonly known as salt and pepper noise in the image processing terminology, pixel dropouts can be detected with many existing algorithms that usually tend to falsely detect edges as noise. To overcome this common problem, a novel 2-stage algorithm has been designed to detect salt and pepper noise in raw satellite imagery. [[**Under Review at IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22)**]](https://www.igarss2022.org/)<br />
 Technology Used: Python, Sci-kit, Numba , Scipy, PIL, GDAL, RasterIO
 
 ## Data Analysis
