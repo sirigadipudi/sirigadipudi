@@ -1,7 +1,7 @@
 This is my portfolio of major research projects. Feel free to reach out to me with any questions or comments. 
 
 
-### Research at Indian Space Research Organization
+# Research at Indian Space Research Organization
 As a scientist at National Remote Sensing Center,ISRO, my major research interest includes deep learning, image processing, data analysis and natural language processing.
 ## Deep Learning
 1. RTC-GAN: A novel generative adversarial network design for infusing spectral information into the spatial features for real time semantic LULC segmentation of satellite data [[**Published at IEEE International Geoscience and Remote Sensing Symposium (IGARSS'20**]](https://ieeexplore.ieee.org/document/9323363)  
@@ -38,6 +38,6 @@ Tools used: Python, Seaborn, Plotly, Matplotlib, Pandas, Postgres
 
 3. API for bhoonidhi, ISRO's open data dissemination portal. [**Source Code**](https://github.com/RohitGandikota/BhoonidhiAPI)
 
-### Research at Indian Space Research Organization
+# Research at Indian Space Research Organization
 This is where my passion for machine learning was shaped into research. My work here mainly focused on basic understanding of deep learning architectures, their applications in computer vision applications (data hiding, image detection, autonomous vehicle vision, and face recognition) and a little bit of text processing and NLP.
  
