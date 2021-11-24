@@ -1,37 +1,43 @@
-This is my portfolio of projects and assignments. Feel free to reach out to me with any questions or comments. 
+This is my portfolio of major research projects. Feel free to reach out to me with any questions or comments. 
 
 
-### List of Projects
-1. [Social Networks](https://github.com/10avinash/Project-Portfolio/tree/master/Social%20Networks): Effects of Interlocked Directors on Financial Performance [[**Accepted for Publication at IEEE Transactions on Computational Social Systems**]](https://ieeexplore.ieee.org/document/8960302)  
-Summary: The goal of this project is to estimate the financial effects of interlocked directors  
-Skills Used: Data Collection, Cleaning, and Visualization, Python, NetworkX, Matplotlib, gnuplot, LaTeX, Gephi
+### Research at Indian Space Research Organization
+As a scientist at National Remote Sensing Center,ISRO, my major research interest includes deep learning, image processing, data analysis and natural language processing.
+## Deep Learning
+1. RTC-GAN: A novel generative adversarial network design for infusing spectral information into the spatial features for real time semantic LULC segmentation of satellite data [[**Published at IEEE International Geoscience and Remote Sensing Symposium (IGARSS'20**]](https://ieeexplore.ieee.org/document/9323363)  
+Summary: The goal of this project is to design a novel GAN architecture for real-time classification of satellite images.   
+Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 
-2. Machine Learning Projects
-    * [Linear Regression: A very simple implementation](https://github.com/10avinash/Project-Portfolio/tree/master/Machine%20Learning/Simple%20Linear%20Regression)  
-    Summary: Prediction of profits of food truck based on population.  
-    Skills: Linear Regression, NumPy, Cost Function Visualisation, Python
-    * [Image Classification with TinyimageNet using Convolutional Neural Network](https://github.com/10avinash/Project-Portfolio/tree/master/Machine%20Learning/CNN)  
-    Summary: Classification of images using a Convolution Neural Network.  
-    Skills: Convolution Neural Networks, Image Processing, Neural Networks, pandas, SciPy, Keras
-    * [GDP Prediction](https://github.com/10avinash/Project-Portfolio/tree/master/Machine%20Learning/LSTM-SmallData): Will LSTMs work with small data?  
-    Summary: Prediction of Indian GDP with past data. LSTM needs more data to work.    
-    Skills: LSTM, Recurrent Neural Networks (RNN), Data Collection, Feature Engineering, Time Series Analysis  
-    * [GDP Per Capita Prediction](https://github.com/10avinash/Project-Portfolio/tree/master/Machine%20Learning/GDP-Per-Capita) using Greenhouse Gas Emissions  
-    Summary: Utilize data on greenhouse gas emissions for GDP per GDP per capita prediction. LSTM did not train.    
-    Skills: Multivariate time series prediction, scikit-learn, google colab, Matplotlib
-    * [India-USA Exchange Rate Prediction](https://github.com/10avinash/Project-Portfolio/tree/master/Machine%20Learning/Exchange_Rate_Prediction): Comparision of simple ANNs to LSTM    
-    Summary: LSTMs provide an order of magnitude higher accuracy than simple ANNs for prediction.  
-    Skills: Pandas, scikit-learn, Keras, Time Series Analysis, MS Excel         
-    * [Transfer Entropy Neural Network](https://github.com/10avinash/Project-Portfolio/tree/master/Machine%20Learning/TENN)  
-    Summary: Developed a Neural Network which can calculate transfer entropy (measure of causality) and estimate the lag values between two time series  
-    Skills: Pytorch, pandas, Data Processing, Neural Networks, Predictive Modeling  
-3.  [Empirical Work on Auction Data](https://github.com/10avinash/Project-Portfolio/tree/master/Auctions)  
-Summary: nonparametric estimation of distribution of valuation in a sample of ascending button auctions assuming symmetric independent private values  
-Skills: NumPy, pandas, non parametric estimation, auction theory  
+2. DisMon-GAN: A 24x7, all-weather disaster monitoring tool for assisting ministries and rescue teams by providing seamless synthesised optical images from the information collected by microwave SAR data. [[**Under Review at Conference on Computer Vision and Pattern Recognition (CVPR)**]](https://cvpr2022.thecvf.com/)
+Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 
-4. [Data Management and Visualisation](https://github.com/10avinash/Data-Management-and-Visualisation)  
-Summary: The project is to learn the applicability of relational database language like MySQL and data visualisation tools like Tableau.  
-Skills: MySQL, Tableau
+3. Land Use Land Cover Classification of Satellite Images using Deep Learning: This work discusses how high resolution satellite images are classified into various classes like cloud, vegetation, water and miscellaneous, using feed forward neural network. [**Source Code**](https://github.com/RohitGandikota/Land-Use-Land-Cover-Classification-of-Satellite-Images-using-Deep-Learning)
+Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 
+4. Thematic layer generation from Sentinel Images using M2TGAN: In this work, we generate the thematic maps from satellite images. Here, we generate water bodies thematic and use both traditional Autoencoder and a Generative Adversarial Network (M2TGAN). [**Source Code**](https://github.com/RohitGandikota/Satellite-Images-to-thematic-maps-using-Generative-Adversarial-Networks.)
+Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 
+## Image Processing
+1. Automatic Satellite Quality Data Evaluation Algorithms: Automatic Image Quality Analysis (AIQA) has become a very crucial module in remote sensing industry. With increasing competition and institutions that provide remote sensing images, the quality of images provided to the users has a huge impact. This work provides advanced quality parameters like noise density, histogram statistics, radiometry paramters, geometry parameters, and LULC thematic information. 
+Technology Used: Python, Scipy, Sci-kit, Numba, PIL, GDAL, RasterIO
+
+2.A Novel Approach for Pixel Dropouts Localization: Commonly known as salt and pepper noise in the image processing terminology, pixel dropouts can be detected with many existing algorithms that usually tend to falsely detect edges as noise. To overcome this common problem, a novel 2-stage algorithm has been designed to detect salt and pepper noise in raw satellite imagery. [[**Under Review at IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22)**]](https://www.igarss2022.org/)
+Technology Used: Python, Sci-kit, Numba , Scipy, PIL, GDAL, RasterIO
+
+## Data Analysis
+1. Data Mining of ISRO's production history and analysing the data for identifying gaps to improve efficiency. Formulated an optimization problem to improve the efficiency of production by considering dynamic resourceallocation problem in stochastic environment.  Recorded a 2.4 folds improvement in production time.
+Tools used: Python, Seaborn, Plotly, Matplotlib, Pandas, Oracle 
+
+2. Analysis and Visualization of radiometry parameters automatically calculated for ~2000 images(512GB) per day to assess the quality and monitor the products delivered to users. 
+Tools used: Python, Seaborn, Plotly, Matplotlib, Pandas, Postgres 
+
+## Natural Language Processing 
+1. NLP solutions for automatic satellite ordering using voice search commands for ISRO’s open data websiteand provided an [API package for the same on PyPI](https://pypi.org/project/bhoonidhi/)
+
+2. Developing speech recongition extension for satellite specific lingo. Using open-sourced pre-trained LSTM networks to fine-tune for satellite data specific jargons. 
+
+3. API for bhoonidhi, ISRO's open data dissemination portal. [**Source Code**](https://github.com/RohitGandikota/BhoonidhiAPI)
+
+### Research at Indian Space Research Organization
+This is where my passion for machine learning was shaped into research. My work here mainly focused on basic understanding of deep learning architectures, their applications in computer vision applications (data hiding, image detection, autonomous vehicle vision, and face recognition) and a little bit of text processing and NLP.
  
