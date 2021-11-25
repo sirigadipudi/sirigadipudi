@@ -13,6 +13,7 @@ I received my undergraduate degree in Electronics and Communications Engineering
 - Deep Reinforcement Learning for image detection application
 - Developing computer vision and NLP solutions for improving life on campus (Activity carried out as a part of AIML club)
 
+
 Upon graduation, I joined National Remote Sensing Center, Indian Space Research Organization as a Scientist. My main research focuses on:
 - Developing solutions for remote sensing applications like road detection, cloud & water layer generation, land use land cover classification, ship detection, etc., using deep learning approaches. Achieved a testing accuracy of 91% over Indian remote sensing satellites, a first of it's kind. 
 - Time series analysis and EDA to analyze the production chain of satellite image generation and modelling optimization techniques for improving the efficiency by factor of ~20. 
