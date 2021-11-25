@@ -4,7 +4,7 @@ This is my portfolio of major research projects. Feel free to reach out to me wi
 # Research at Indian Space Research Organization
 As a scientist at National Remote Sensing Center,ISRO, my major research interest includes deep learning, image processing, data analysis and natural language processing.
 ## Deep Learning
-1. RTC-GAN: A novel generative adversarial network design for infusing spectral information into the spatial features for real time semantic LULC segmentation of satellite data [[**Published at IEEE International Geoscience and Remote Sensing Symposium (IGARSS'20**]](https://ieeexplore.ieee.org/document/9323363)  <br />
+1. RTC-GAN: A novel generative adversarial network design for infusing spectral information into the spatial features for real time semantic LULC segmentation of satellite data [[**Published at IEEE International Geoscience and Remote Sensing Symposium (IGARSS'20)**]](https://ieeexplore.ieee.org/document/9323363)  <br />
 Summary: The goal of this project is to design a novel GAN architecture for real-time classification of satellite images.   <br />
 Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 
@@ -39,5 +39,39 @@ Tools used: Python, Seaborn, Plotly, Matplotlib, Pandas, Postgres
 3. API for bhoonidhi, ISRO's open data dissemination portal. [[**Source Code**]](https://github.com/RohitGandikota/BhoonidhiAPI)
 
 # Research at Indian Institute of Space Science and Technology
-This is where my passion for machine learning was shaped into research. My work here mainly focused on basic understanding of deep learning architectures, their applications in computer vision applications (data hiding, image detection, autonomous vehicle vision, and face recognition) and a little bit of text processing and NLP.
- 
+This is where my passion for machine learning was shaped into research. My work here mainly focused on basic understanding of deep learning architectures, their applications in computer vision applications (data hiding, image detection, autonomous vehicle vision, and face recognition) and a little bit of text processing and NLP. I will divide my research into summer internship, course projects, final year thesis, and AIML club projects.
+
+## Summer Internship
+1. Understanding and developing Q-value based Reinforcement learning algorithms. Developing a deep-reinforcement learning network for image detection.<br />
+Technology Used: Python, Keras, PIL, openCV<br />
+
+2. Understanding Convolutional Neural Networks through a novel approach. The input pixels responsible for classification are indentified by back-tracking the activations of neurons at each layer. [[**Published at IEEE Region 10 International Conference (TENCON'19)**]](https://ieeexplore.ieee.org/document/8929603)  <br />
+Technology Used: Python, Tensorflow, Keras, Matplotlib, Numba<br />
+## Course Projects
+1. Developing image processing algoritms for autonomous vehicle vision systems. This work focuses on developing basic image processing algorithms and fine-tuning them for usage in vision systems. [[**Report published in Arxiv**]](https://arxiv.org/abs/1812.02542)<br />
+Technology Used: Python, OpenCV, PIL, Sci-kit, Numpy<br />
+
+2. Worked on infusing the InceptionNet concept in Res Modules. This work was on architectural design to see if inception module advantages can help Res modules bottlenecks. <br />
+Technology Used: Python, Tensorflow<br />
+
+3. Comprehensive Study on WiFi protocols such as IEEE 802.11ac, 802.11ad, and 802.11ax and summarize few of the works which talk about the above the mentioned protocol standards of WiFi that brought a significant improvement in WiFi's performance. [[**Report published in Arxiv**]](https://arxiv.org/abs/1811.09391)<br />
+
+4. Worked on job-shop scheduling optimization protocols and developed a scheduling protocol for xv6 operating system.<br />
+
+## Final year thesis
+1. Designed VoI-GAN, the first end-to-end trainable model of Generative Adversarial Networks (GAN) engineered to hide audio data in images [[**Published at Springer's International Conference on Pattern Recognition and Machine Intelligence (PReMI'19)**]](https://link.springer.com/chapter/10.1007/978-3-030-34872-4_43)  <br />
+Technology Used: Python, Keras, Tensorflow, PIL<br />
+
+2. Introduced the first models to hide video data inside images that can be also recognised as compression techniques: Vid-in-Img-3D-GAN and Vid-in-Img-RAN using 3D CNNs and bi-directional LSTMs<br />
+Technology Used: Python, Keras, Tensorflow, PIL<br />
+
+3. Designed WM-GAN for watermarking images using GAN and VAE architectures<br />
+Technology Used: Python, Keras, Tensorflow, PIL<br />
+
+## AIML club (Advised and Guided Students)
+1. Built a device with Intel’s Neural Compute Stick and a camera module, using Siamese network for one-shotlearning to perform automatic facial recognition to mark the attendance of students inside classrooms.<br />
+Technology Used: Python, Keras, Tensorflow, PIL, Intel Openvino<br />
+2. Extended computer vision work on autonomous vehicles for IIST's mail delivery robot.<br />
+Technology Used: Python, OpenCV, PIL<br />
+3. Developed NLP solutions for campus enquiry chatbot. <br />
+Technology Used: Python, NLTK, Numpy<br />
