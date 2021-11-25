@@ -14,7 +14,7 @@ Here is an updated list of my publications as on 25th November, 2021.
 ## Publications In Process
 -  R. Gandikota, "Class-Net: A Novel Deep Learning Architecture with Peer-Learning"
     
--  R. Gandikota, D. Mishra. "Hiding Multimedia Inside Image using Bi-Directional LSTM GANs"
+-  R. Gandikota, D. Mishra. "Hiding Multimedia Inside Image using Bi-Directional LSTM GAN and 3D-GAN"
     
 -  R. Gandikota, R. K. K, A. Sharma, M. M. "Automatic Satellite Image Quality Control: A Production Chain Design for ISRO"
  
