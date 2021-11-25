@@ -170,14 +170,12 @@ img {
   margin-right: 15px;
 
   @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
     border: 5px double #000;
     border-radius: 5px;
   }
 
   img {
+    float: center;
     margin-left: auto;  
     margin-right: auto;  
     width: 200px;
