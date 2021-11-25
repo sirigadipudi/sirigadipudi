@@ -171,8 +171,7 @@ img {
   margin-right: auto; 
 
   @include mobile {
-    border: 5px double #000;
-    border-radius: 5px;
+   
   }
 
   img {
