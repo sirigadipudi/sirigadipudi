@@ -71,7 +71,9 @@ Technology Used: Python, Keras, Tensorflow, PIL<br />
 ## AIML club (Advised and Guided Students)
 1. Built a device with Intel’s Neural Compute Stick and a camera module, using Siamese network for one-shotlearning to perform automatic facial recognition to mark the attendance of students inside classrooms.<br />
 Technology Used: Python, Keras, Tensorflow, PIL, Intel Openvino<br />
+
 2. Extended computer vision work on autonomous vehicles for IIST's mail delivery robot.<br />
 Technology Used: Python, OpenCV, PIL<br />
+
 3. Developed NLP solutions for campus enquiry chatbot. <br />
 Technology Used: Python, NLTK, Numpy<br />
