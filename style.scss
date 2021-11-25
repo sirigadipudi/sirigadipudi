@@ -164,20 +164,17 @@ img {
 }
 
 .site-avatar {
-  float: center;
+  display: block;
+  margin: auto;
   width: 200px;
   height: 200px;
-  margin-left: auto;  
-  margin-right: auto; 
-
+	
   @include mobile {
-   
   }
 
   img {
-    text-align:center;
-    margin-left: auto;  
-    margin-right: auto;  
+    display: block;
+    margin: auto;
     width: 200px;
     height: 200px;
     border: 5px double #000;
