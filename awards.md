@@ -1,3 +1,8 @@
+---
+layout: page
+title: Awards and Honours
+permalink: /awards/
+---
 I was very fortunate to have worked with my wonderful advisor Dr. Deepak Mishra. This section is possible because of my excellent professors, advisors, family and friends who I am very grateful for. 
 
 ### Best Innovative BTech Thesis Award by Indian National Academy of Engineering, 2019.
