@@ -32,7 +32,7 @@ Tools used: Python, Seaborn, Plotly, Matplotlib, Pandas, Oracle
 Tools used: Python, Seaborn, Plotly, Matplotlib, Pandas, Postgres 
 
 ## Natural Language Processing 
-1. NLP solutions for automatic satellite ordering using voice search commands for ISRO’s open data websiteand provided an [API package for the same on PyPI](https://pypi.org/project/bhoonidhi/)
+1. NLP solutions for automatic satellite ordering using voice search commands for [ISRO’s open data website, Bhoondihi](https://bhoonidhi.nrsc.gov.in/bhoonidhi/index.html) and provided an [API package for the same on PyPI](https://pypi.org/project/bhoonidhi/) [[**Source Code**]](https://github.com/RohitGandikota/NLP-based-Smart-Search-for-Satellite-Data-Ordering)
 
 2. Developing speech recongition extension for satellite specific lingo. Using open-sourced pre-trained LSTM networks to fine-tune for satellite data specific jargons. 
 
@@ -59,13 +59,13 @@ Technology Used: Python, Tensorflow<br />
 4. Worked on job-shop scheduling optimization protocols and developed a scheduling protocol for xv6 operating system.<br />
 
 ## Final year thesis
-1. Designed VoI-GAN, the first end-to-end trainable model of Generative Adversarial Networks (GAN) engineered to hide audio data in images [[**Published at Springer's International Conference on Pattern Recognition and Machine Intelligence (PReMI'19)**]](https://link.springer.com/chapter/10.1007/978-3-030-34872-4_43)  <br />
+1. Designed VoI-GAN, the first end-to-end trainable model of Generative Adversarial Networks (GAN) engineered to hide audio data in images [[**Published at Springer's International Conference on Pattern Recognition and Machine Intelligence (PReMI'19)**]](https://link.springer.com/chapter/10.1007/978-3-030-34872-4_43) [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Audio-in-Images-using-Deep-Generative-Network-with-Adversarial-Training) <br />
 Technology Used: Python, Keras, Tensorflow, PIL<br />
 
-2. Introduced the first models to hide video data inside images that can be also recognised as compression techniques: Vid-in-Img-3D-GAN and Vid-in-Img-RAN using 3D CNNs and bi-directional LSTMs<br />
+2. Introduced the first models to hide video data inside images that can be also recognised as compression techniques: Vid-in-Img-3D-GAN and Vid-in-Img-RAN using 3D CNNs and bi-directional LSTMs [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Video-in-Images-using-Deep-Generative-Adversarial-Networks)<br />
 Technology Used: Python, Keras, Tensorflow, PIL<br />
 
-3. Designed WM-GAN for watermarking images using GAN and VAE architectures<br />
+3. Designed WM-GAN for watermarking images using GAN and VAE architectures [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Images-using-VAE-Genarative-Adversarial-Networks)<br />
 Technology Used: Python, Keras, Tensorflow, PIL<br />
 
 ## AIML club (Advised and Guided Students)
