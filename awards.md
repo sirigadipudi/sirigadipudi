@@ -1,7 +1,7 @@
 I was very fortunate to have worked with my wonderful advisor Dr. Deepak Mishra. This section is possible because of my excellent professors, advisors, family and friends who I am very grateful for. 
 
 ## Best Innovative BTech Thesis Award by Indian National Academy of Engineering, 2019.
-A prestigious award presented to the best computer science B.Tech thesis in India. Received this award for exploring the application of deep learning models in data hiding. [[*Link*]](https://www.inae.in/recipients-of-innovative-student-projects-award/)
+A prestigious award presented to the best computer science B.Tech thesis in India. Received this award for exploring the application of deep learning models in data hiding.[[*Link*]](https://www.inae.in/recipients-of-innovative-student-projects-award/)
 
 ## Best Paper Award by International Conference on Pattern Recognition and Machine Intelligence
 An award presented for the best technical research paper for the work designing GAN architectures for hiding audio data inside images. [[**Link**]](https://www.iist.ac.in/departments/avionics-awards)
