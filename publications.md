@@ -1,3 +1,8 @@
+---
+layout: page
+title: List of Publications
+permalink: /publications/
+---
 Here is an updated list of my publications as on 25th November, 2021. 
 ## Accepted Publications
 -  R. Gandikota and D. Mishra. "Hiding Audio in Images: A Deep Learning Approach" International Conference on Pattern Recognition and Machine Intelligence. Springer, Cham, 2019, pp. 389-399. [[**Link**]](https://link.springer.com/chapter/10.1007/978-3-030-34872-4_43)
