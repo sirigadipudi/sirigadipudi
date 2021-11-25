@@ -1,3 +1,8 @@
+---
+layout: page
+title: Research Projects
+permalink: /projects/
+---
 This is my portfolio of major research projects. Feel free to reach out to me with any questions or comments. 
 
 
