@@ -16,10 +16,13 @@ Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 2. DisMon-GAN: A 24x7, all-weather disaster monitoring tool for assisting ministries and rescue teams by providing seamless synthesized optical images from the information collected by microwave SAR data. [[**Under Review at Conference on Computer Vision and Pattern Recognition (CVPR)**]](https://cvpr2022.thecvf.com/)<br />
 Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 
-3. Land Use Land Cover Classification of Satellite Images using Deep Learning: This work discusses how high-resolution satellite images are classified into various classes like cloud, vegetation, water, and miscellaneous, using a feed-forward neural network. [[**Source Code**]](https://github.com/RohitGandikota/Land-Use-Land-Cover-Classification-of-Satellite-Images-using-Deep-Learning) <br />
+3. Satellite images to Map layer translation using conditional GAN with Patch-GAN discriminator. This work automatically generates crisp map layer with both higher and lower frequency features from satellite images. [[**Source Code**]](https://github.com/RohitGandikota/Satellite-Images-to-Map-Layer-Translation-Using-Conditional-Patch-GAN)<br />
+Technology Used: Python, Keras, Scipy, PIL
+
+4. Land Use Land Cover Classification of Satellite Images using Deep Learning: This work discusses how high-resolution satellite images are classified into various classes like cloud, vegetation, water, and miscellaneous, using a feed-forward neural network. [[**Source Code**]](https://github.com/RohitGandikota/Land-Use-Land-Cover-Classification-of-Satellite-Images-using-Deep-Learning) <br />
 Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 
-4. Thematic layer generation from Sentinel Images using M2TGAN: In this work, we generate the thematic maps from satellite images. Here, we generate water bodies thematic and use both traditional Autoencoder and a Generative Adversarial Network (M2TGAN). [[**Source Code**]](https://github.com/RohitGandikota/Satellite-Images-to-thematic-maps-using-Generative-Adversarial-Networks.)<br />
+5. Thematic layer generation from Sentinel Images using M2TGAN: In this work, we generate the thematic maps from satellite images. Here, we generate water bodies thematic and use both traditional Autoencoder and a Generative Adversarial Network (M2TGAN). [[**Source Code**]](https://github.com/RohitGandikota/Satellite-Images-to-thematic-maps-using-Generative-Adversarial-Networks.)<br />
 Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 
 ## Image Processing
