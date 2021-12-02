@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Projects
+title: Projects
 permalink: /projects/
 ---
 This is my portfolio of significant research projects. Feel free to reach out to me with any questions or comments. 
