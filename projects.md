@@ -55,6 +55,7 @@ Technology Used: Python, Keras, PIL, openCV<br />
 
 2. Understanding Convolutional Neural Networks through a novel approach. The input pixels responsible for classification are identified by back-tracking the activations of neurons at each layer. [[**Published at IEEE Region 10 International Conference (TENCON'19)**]](https://ieeexplore.ieee.org/document/8929603)  <br />
 Technology Used: Python, Tensorflow, Keras, Matplotlib, Numba<br />
+
 ## Course Projects
 1. Developing image processing algorithms for autonomous vehicle vision systems. This work focuses on developing basic image processing algorithms and fine-tuning them for usage in vision systems. [[**Report published in Arxiv**]](https://arxiv.org/abs/1812.02542)<br />
 Technology Used: Python, OpenCV, PIL, Sci-kit, Numpy<br />
