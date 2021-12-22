@@ -66,7 +66,7 @@ Technology Used: Python, Tensorflow<br />
 
 4. Worked on job-shop scheduling optimization protocols and developed a scheduling protocol for the xv6 operating system.<br />
 
-## Final year thesis
+## Final Year Thesis
 1. Designed VoI-GAN, the first end-to-end trainable model of Generative Adversarial Networks (GAN) engineered to hide audio data in images [[**Published at Springer's International Conference on Pattern Recognition and Machine Intelligence (PReMI'19)**]](https://link.springer.com/chapter/10.1007/978-3-030-34872-4_43) [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Audio-in-Images-using-Deep-Generative-Network-with-Adversarial-Training) <br />
 Technology Used: Python, Keras, Tensorflow, PIL<br />
 
@@ -76,7 +76,7 @@ Technology Used: Python, Keras, Tensorflow, PIL<br />
 3. Designed WM-GAN for watermarking images using GAN and VAE architectures [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Images-using-VAE-Genarative-Adversarial-Networks)<br />
 Technology Used: Python, Keras, Tensorflow, PIL<br />
 
-## AIML club
+## AIML Club
 1. Built a device with Intel's Neural Compute Stick and a camera module, using the Siamese network for one-shot learning to perform automatic facial recognition to mark students' attendance inside classrooms.<br />
 Technology Used: Python, Keras, Tensorflow, PIL, Intel Openvino<br />
 
