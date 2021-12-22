@@ -12,9 +12,11 @@ Here is an updated list of my publications as of 25th November 2021.
 -  R. Gandikota and D. Mishra, "How You See Me: Understanding Convolutional Neural Networks" TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), 2019, pp. 2069-2073, doi: 10.1109/TENCON.2019.8929603. [[**Link**]](https://ieeexplore.ieee.org/document/8929603)
 
 ## Publications Under Review
--  R. Gandikota , A. Sharma, M. M. "Pixel Noise Detection in Raw Satellite Data: A Novel Approach", in progress for 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22)
+-  R. Gandikota , A. Sharma, M. M. "Pixel Noise Detection in Raw Satellite Data: A Novel Approach", under review at 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22)
     
--  R. Gandikota , A. Sharma, M. M and V. M. Bothale. "DisMon-GAN: 24X7 All-Weather Disaster Monitoring using  Self-Attention GAN for Optical Data Synthesis from SAR Imagery" in progress for IEEE conference on computer vision and pattern recognition (CVPR'22)
+- R.Gandikota, D. Mishra, "HD-VAE-GAN: Hiding Data with Variational Autoencoder Generative Adversarial Networks", under review at 10th ACM Workshop on Information Hiding and Multimedia Security (ACM IH&MMSEC'22) 
+
+- R.Gandikota, D. Mishra, "Hiding Video in Images: Adversarial Learning with LSTMs and 3D-CNNs", under review at 10th ACM Workshop on Information Hiding and Multimedia Security (ACM IH&MMSEC'22) 
 
 ## Publications In Process
 -  R. Gandikota, "Class-Net: A Novel Deep Learning Architecture with Peer-Learning"
@@ -23,3 +25,4 @@ Here is an updated list of my publications as of 25th November 2021.
     
 -  R. Gandikota, R. K. K, A. Sharma, M. M. "Automatic Satellite Image Quality Control: A Production Chain Design for ISRO"
  
+-  R. Gandikota , A. Sharma, M. M and V. M. Bothale. "DisMon-GAN: 24X7 All-Weather Disaster Monitoring using  Self-Attention GAN for Optical Data Synthesis from SAR Imagery"
