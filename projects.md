@@ -76,7 +76,7 @@ Technology Used: Python, Keras, Tensorflow, PIL<br />
 3. Designed WM-GAN for watermarking images using GAN and VAE architectures [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Images-using-VAE-Genarative-Adversarial-Networks)<br />
 Technology Used: Python, Keras, Tensorflow, PIL<br />
 
-## AIML club (Advised and Guided Students)
+## AIML club
 1. Built a device with Intel's Neural Compute Stick and a camera module, using the Siamese network for one-shot learning to perform automatic facial recognition to mark students' attendance inside classrooms.<br />
 Technology Used: Python, Keras, Tensorflow, PIL, Intel Openvino<br />
 
