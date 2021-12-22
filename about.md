@@ -23,7 +23,7 @@ Upon graduation, I joined the National Remote Sensing Center of the Indian Space
 
 ### Contacting me
 Feel free to reach out to me if you need some additional information/context for my projects.  
-Email: [grohit0@gmail.com](mailto:email@domain.com\)  
+Email: [grohit0 [at] gmail [.] com](mailto:grohit0@gmail.com)  
   
 
 
