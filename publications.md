@@ -5,18 +5,17 @@ permalink: /publications/
 ---
 Here is an updated list of my publications as of 25th November 2021. 
 ## Accepted Publications
--  R. Gandikota and D. Mishra. "Hiding Audio in Images: A Deep Learning Approach" International Conference on Pattern Recognition and Machine Intelligence. Springer, Cham, 2019, pp. 389-399. [[**Link**]](https://link.springer.com/chapter/10.1007/978-3-030-34872-4_43)
+-  R. Gandikota and D. Mishra. "Hiding Audio in Images: A Deep Learning Approach" International Conference on Pattern Recognition and Machine Intelligence. Springer, Cham, 2019, pp. 389-399. [[**Link**]](https://link.springer.com/chapter/10.1007/978-3-030-34872-4_43) [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Audio-in-Images-using-Deep-Generative-Network-with-Adversarial-Training)
     
--  R. Gandikota, R. K. K, A. Sharma, M. M, and V. M. Bothale, "RTC-GAN: Real-Time Classification of Satellite Imagery using Deep Generative Adversarial Networks with Infused Spectral Information" IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium, 2020, pp. 6993-6996, doi: 10.1109/IGARSS39084.2020.9323363. [[**Link**]](https://ieeexplore.ieee.org/document/9323363)
+-  R. Gandikota, R. K. K, A. Sharma, M. M, and V. M. Bothale, "RTC-GAN: Real-Time Classification of Satellite Imagery using Deep Generative Adversarial Networks with Infused Spectral Information" IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium, 2020, pp. 6993-6996, doi: 10.1109/IGARSS39084.2020.9323363. [[**Link**]](https://ieeexplore.ieee.org/document/9323363) [[**Source Code**]](https://github.com/RohitGandikota/Land-Use-Land-Cover-Classification-of-Satellite-Images-using-Deep-Learning)
 
 -  R. Gandikota and D. Mishra, "How You See Me: Understanding Convolutional Neural Networks" TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), 2019, pp. 2069-2073, doi: 10.1109/TENCON.2019.8929603. [[**Link**]](https://ieeexplore.ieee.org/document/8929603)
 
 ## Publications Under Review
--  R. Gandikota , A. Sharma, M. M. "Pixel Noise Detection in Raw Satellite Data: A Novel Approach", under review at 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22)
-    
-- R.Gandikota, D. Mishra, "HD-VAE-GAN: Hiding Data with Variational Autoencoder Generative Adversarial Networks", under review at 10th ACM Workshop on Information Hiding and Multimedia Security (ACM IH&MMSEC'22) 
+-  R. Gandikota , A. Sharma, M. M. "Pixel Noise Detection in Raw Satellite Data: A Novel Approach", under review at 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22) [[**Source Code**]](https://github.com/RohitGandikota/Automatic-Image-Quality-Analysis/blob/main/pixelNoiseDetection.py)    
+- R.Gandikota, D. Mishra, "HD-VAE-GAN: Hiding Data with Variational Autoencoder Generative Adversarial Networks", under review at 10th ACM Workshop on Information Hiding and Multimedia Security (ACM IH&MMSEC'22) [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Images-using-VAE-Genarative-Adversarial-Networks)
 
-- R.Gandikota, D. Mishra, "Hiding Video in Images: Harnesssing Adversarial Learning on Deep 3D-Spatio-Temporal Convolutional Neural Networks", under review at 10th ACM Workshop on Information Hiding and Multimedia Security (ACM IH&MMSEC'22) 
+- R.Gandikota, D. Mishra, "Hiding Video in Images: Harnesssing Adversarial Learning on Deep 3D-Spatio-Temporal Convolutional Neural Networks", under review at 10th ACM Workshop on Information Hiding and Multimedia Security (ACM IH&MMSEC'22) [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Video-in-Images-using-Deep-Generative-Adversarial-Networks)
 
 ## Publications In Process
 -  R. Gandikota, "Class-Net: A Novel Deep Learning Architecture with Peer-Learning"
