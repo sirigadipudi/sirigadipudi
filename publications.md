@@ -16,7 +16,7 @@ Here is an updated list of my publications as of 25th November 2021.
     
 - R.Gandikota, D. Mishra, "HD-VAE-GAN: Hiding Data with Variational Autoencoder Generative Adversarial Networks", under review at 10th ACM Workshop on Information Hiding and Multimedia Security (ACM IH&MMSEC'22) 
 
-- R.Gandikota, D. Mishra, "Hiding Video in Images: Adversarial Learning with LSTMs and 3D-CNNs", under review at 10th ACM Workshop on Information Hiding and Multimedia Security (ACM IH&MMSEC'22) 
+- R.Gandikota, D. Mishra, "Hiding Video in Images: Harnesssing Adversarial Learning on Deep 3D-Spatio-Temporal Convolutional Neural Networks", under review at 10th ACM Workshop on Information Hiding and Multimedia Security (ACM IH&MMSEC'22) 
 
 ## Publications In Process
 -  R. Gandikota, "Class-Net: A Novel Deep Learning Architecture with Peer-Learning"
