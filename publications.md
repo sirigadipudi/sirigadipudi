@@ -3,7 +3,7 @@ layout: page
 title: List of Publications
 permalink: /publications/
 ---
-Here is an updated list of my publications as of 27th December 2021. 
+Here is an updated list of my publications as of 14th January, 2022. 
 ## Accepted Publications
 -  R. Gandikota and D. Mishra. "Hiding Audio in Images: A Deep Learning Approach" International Conference on Pattern Recognition and Machine Intelligence. Springer, Cham, 2019, pp. 389-399. [[**Link**]](https://link.springer.com/chapter/10.1007/978-3-030-34872-4_43) [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Audio-in-Images-using-Deep-Generative-Network-with-Adversarial-Training)
     
@@ -13,6 +13,9 @@ Here is an updated list of my publications as of 27th December 2021.
 
 ## Publications Under Review
 -  R. Gandikota , A. Sharma, M. M. "Pixel Noise Detection in Raw Satellite Data: A Novel Approach", under review at 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22) [[**Source Code**]](https://github.com/RohitGandikota/Automatic-Image-Quality-Analysis/blob/main/pixelNoiseDetection.py)    
+
+-  R. Gandikota , M. M. "DisMon-GAN: A 24X7 All-Weather Optical Disaster Surveillance using Progressively Growing Adversarial Networks with Patch based Discriminator", under review at 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22) [[**Source Code**]](https://github.com/RohitGandikota/DisMonGAN-SAR2Optical-Translation-for-Disaster-Monitoring)  
+
 - R.Gandikota, D. Mishra, "HD-VAE-GAN: Hiding Data with Variational Autoencoder Generative Adversarial Networks", under review at 10th ACM Workshop on Information Hiding and Multimedia Security (ACM IH&MMSEC'22) [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Images-using-VAE-Genarative-Adversarial-Networks)
 
 - R.Gandikota, D. Mishra, "Hiding Video in Images: Harnesssing Adversarial Learning on Deep 3D-Spatio-Temporal Convolutional Neural Networks", under review at 10th ACM Workshop on Information Hiding and Multimedia Security (ACM IH&MMSEC'22) [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Video-in-Images-using-Deep-Generative-Adversarial-Networks)
@@ -23,5 +26,3 @@ Here is an updated list of my publications as of 27th December 2021.
 -  R. Gandikota, D. Mishra. "Hiding Multimedia Inside Image using Bi-Directional LSTM GAN and 3D-GAN"
     
 -  R. Gandikota, R. K. K, A. Sharma, M. M. "Automatic Satellite Image Quality Control: A Production Chain Design for ISRO"
- 
--  R. Gandikota , A. Sharma, M. M and V. M. Bothale. "DisMon-GAN: 24X7 All-Weather Disaster Monitoring using  Self-Attention GAN for Optical Data Synthesis from SAR Imagery"
