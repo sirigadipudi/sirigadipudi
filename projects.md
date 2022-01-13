@@ -13,7 +13,7 @@ As a scientist at National Remote Sensing Center, ISRO, my primary research inte
 Summary: This project aims to design a novel GAN architecture for the real-time classification of satellite images.   <br />
 Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 
-2. DisMon-GAN: A 24x7, all-weather disaster monitoring tool for assisting ministries and rescue teams by providing seamless synthesized optical images from the information collected by microwave SAR data. [[**Under Review at Conference on Computer Vision and Pattern Recognition (CVPR)**]](https://cvpr2022.thecvf.com/)<br />
+2. DisMon-GAN: A 24x7, all-weather disaster monitoring tool for assisting ministries and rescue teams by providing seamless synthesized optical images from the information collected by microwave SAR data. [[**Under Review at IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22)**]](https://www.igarss2022.org/)<br />
 Technology Used: Python, Keras, Scipy, PIL, GDAL, RasterIO
 
 3. Satellite images to Map layer translation using conditional GAN with Patch-GAN discriminator. This work automatically generates crisp map layer with both higher and lower frequency features from satellite images. [[**Source Code**]](https://github.com/RohitGandikota/Satellite-Images-to-Map-Layer-Translation-Using-Conditional-Patch-GAN)<br />
