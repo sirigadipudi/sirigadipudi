@@ -11,11 +11,11 @@ Here is an updated list of my publications as of 19th January, 2022.
 
 -  R. Gandikota and D. Mishra, "How You See Me: Understanding Convolutional Neural Networks" TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), 2019, pp. 2069-2073, doi: 10.1109/TENCON.2019.8929603. [[**Link**]](https://ieeexplore.ieee.org/document/8929603)
 
+-  R. Gandikota , A. Sharma, M. M. "Pixel Noise Localization Algorithm for Indian Satellite Data Quality Control: A Novel Approach", accepted at 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22) [[**Source Code**]](https://github.com/RohitGandikota/Automatic-Image-Quality-Analysis/blob/main/pixelNoiseDetection.py)    
+
+-  R. Gandikota , M. M. "DisMon-GAN: A 24X7 All-Weather Optical Domain Surveillance using Progressively Growing Adversarial Networks with Patch based Discriminator", accepted at 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22) [[**Source Code**]](https://github.com/RohitGandikota/DisMonGAN-SAR2Optical-Translation-for-Disaster-Monitoring)  
+
 ## Publications Under Review
--  R. Gandikota , A. Sharma, M. M. "Pixel Noise Localization Algorithm for Indian Satellite Data Quality Control: A Novel Approach", under review at 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22) [[**Source Code**]](https://github.com/RohitGandikota/Automatic-Image-Quality-Analysis/blob/main/pixelNoiseDetection.py)    
-
--  R. Gandikota , M. M. "DisMon-GAN: A 24X7 All-Weather Optical Domain Surveillance using Progressively Growing Adversarial Networks with Patch based Discriminator", under review at 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22) [[**Source Code**]](https://github.com/RohitGandikota/DisMonGAN-SAR2Optical-Translation-for-Disaster-Monitoring)  
-
 - R.Gandikota, D. Mishra, "HD-VAE-GAN: Hiding Data with Variational Autoencoder Generative Adversarial Networks", under review at 10th ACM Workshop on Information Hiding and Multimedia Security (ACM IH&MMSEC'22) [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Images-using-VAE-Genarative-Adversarial-Networks)
 
 - R.Gandikota, D. Mishra, "Hiding Video in Images: Harnesssing Adversarial Learning on Deep 3D-Spatio-Temporal Convolutional Neural Networks", under review at 10th ACM Workshop on Information Hiding and Multimedia Security (ACM IH&MMSEC'22) [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Video-in-Images-using-Deep-Generative-Adversarial-Networks)
