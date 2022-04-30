@@ -26,3 +26,8 @@ Here is an updated list of my publications as of 19th January, 2022.
 -  R. Gandikota, D. Mishra. "Hiding Multimedia Inside Image using Bi-Directional LSTM GAN and 3D-GAN"
     
 -  R. Gandikota, R. K. K, A. Sharma, M. M. "Automatic Satellite Image Quality Control: A Production Chain Design for ISRO"
+
+## Lectures and Invited Talks
+-  Guest Lecturer for Graduate level Computer Vision Course at Indian Institute of Space Science and Technology
+    
+-  Lecture Series on Data Hhiding under Intel Student Amabassador program at Indian Institute of Space Science and Technology
