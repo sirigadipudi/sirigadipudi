@@ -166,8 +166,8 @@ img {
 .site-avatar {
   display: block;
   margin: auto;
-  width: 719px;
-  height: 745px;
+  width: 360px;
+  height: 373px;
 	
   @include mobile {
   }
@@ -175,8 +175,8 @@ img {
   img {
     display: block;
     margin: auto;
-    width: 719px;
-    height: 745px;
+    width: 360px;
+    height: 373px;
     border: 5px double #000;
     border-radius: 5px;
   }
