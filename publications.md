@@ -5,11 +5,11 @@ permalink: /publications/
 ---
 Here is an updated list of my publications as of 19th January, 2022. 
 ## Accepted Publications
+-  R. Gandikota , D. Mishra. "DisMon-GAN: A 24X7 All-Weather Optical Domain Surveillance using Progressively Growing Adversarial Networks with Patch based Discriminator", accepted at 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22) [[**Source Code**]](https://github.com/RohitGandikota/DisMonGAN-SAR2Optical-Translation-for-Disaster-Monitoring)  
+
+-  R. Gandikota , M. M. "Pixel Noise Localization Algorithm for Indian Satellite Data Quality Control: A Novel Approach", accepted at 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22) [[**Source Code**]](https://github.com/RohitGandikota/Automatic-Image-Quality-Analysis/blob/main/pixelNoiseDetection.py)    
+
 -  R. Gandikota, R. K. K, A. Sharma, M. M, and V. M. Bothale, "RTC-GAN: Real-Time Classification of Satellite Imagery using Deep Generative Adversarial Networks with Infused Spectral Information" IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium, 2020, pp. 6993-6996, doi: 10.1109/IGARSS39084.2020.9323363. [[**Link**]](https://ieeexplore.ieee.org/document/9323363) [[**Source Code**]](https://github.com/RohitGandikota/Land-Use-Land-Cover-Classification-of-Satellite-Images-using-Deep-Learning)
-
--  R. Gandikota , A. Sharma, M. M. "Pixel Noise Localization Algorithm for Indian Satellite Data Quality Control: A Novel Approach", accepted at 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22) [[**Source Code**]](https://github.com/RohitGandikota/Automatic-Image-Quality-Analysis/blob/main/pixelNoiseDetection.py)    
-
--  R. Gandikota , M. M. "DisMon-GAN: A 24X7 All-Weather Optical Domain Surveillance using Progressively Growing Adversarial Networks with Patch based Discriminator", accepted at 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22) [[**Source Code**]](https://github.com/RohitGandikota/DisMonGAN-SAR2Optical-Translation-for-Disaster-Monitoring)  
 
 -  R. Gandikota and D. Mishra. "Hiding Audio in Images: A Deep Learning Approach" International Conference on Pattern Recognition and Machine Intelligence. Springer, Cham, 2019, pp. 389-399. [[**Link**]](https://link.springer.com/chapter/10.1007/978-3-030-34872-4_43) [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Audio-in-Images-using-Deep-Generative-Network-with-Adversarial-Training)
 
