@@ -18,9 +18,12 @@ Here is an updated list of my publications as of 19th January, 2022.
 -  R. Gandikota , Nik Brown, “DC-Art-GAN: Stable Procedural Content Generation using DC-GANs for Digital Art”, accepted at 53rd annual International Conference of the International Simulation and Gaming Association (ISAGA 2022) [[**Source Code**]](https://github.com/aiskunks/AI_Research/tree/main/dc-gan-best-practices)  
 
 ## Publications Under Review
-- R.Gandikota, D. Mishra, "HD-VAE-GAN: Hiding Data with Variational Autoencoder Generative Adversarial Networks", under review at 10th ACM Workshop on Information Hiding and Multimedia Security (ACM IH&MMSEC'22) [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Images-using-VAE-Genarative-Adversarial-Networks)
+- R.Gandikota, D. Mishra, "Hiding Video in Images: Harnesssing Adversarial Learning on Deep 3D-Spatio-Temporal Convolutional Neural Networks", under review at 7th International Conference on Computer Vision & Image Processing (CVIP'22) [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Video-in-Images-using-Deep-Generative-Adversarial-Networks)
 
-- R.Gandikota, D. Mishra, "Hiding Video in Images: Harnesssing Adversarial Learning on Deep 3D-Spatio-Temporal Convolutional Neural Networks", under review at 10th ACM Workshop on Information Hiding and Multimedia Security (ACM IH&MMSEC'22) [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Video-in-Images-using-Deep-Generative-Adversarial-Networks)
+- R.Gandikota, D. Mishra, "HD-VAE-GAN: Hiding Data with Variational Autoencoder Generative Adversarial Networks", under review at 7th International Conference on
+Computer Vision & Image Processing (CVIP'22) [[**Source Code**]](https://github.com/RohitGandikota/Hiding-Images-using-VAE-Genarative-Adversarial-Networks)
+
+- R.Gandikota, D. Mishra, "Share-GAN: A Novel Shared Task Training in Generative Adversarial Networks for Data Hiding", under review at 7th International Conference on Computer Vision & Image Processing (CVIP'22) 
 
 ## Publications In Process
 -  R. Gandikota, "Class-Net: A Novel Deep Learning Architecture with Peer-Learning"
