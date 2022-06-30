@@ -7,7 +7,7 @@ This is my portfolio of significant research projects. Feel free to reach out to
 
 # Research at Northeastern University
 As an AI Master's student at Khoury College of Computer Sciences, my work can be segregated into 3 sub-research groups
-### [AISkunkWorks@NEU](https://github.com/aiskunks/AI_Research) (Volunteer Research Student Club)
+### AISkunkWorks@NEU (Volunteer Research Student Club)
 1. Best Practices to implement DC-GAN (Deep Convolutional Generative Adversarial Networks). This work primarily focuses on various challenges that come with training a DC-GAN for procedural content generation. The work also concentrates on training tricks and architectural recommendations for an efficient model on a personal laptop. The research paper and code can be found [here](https://github.com/aiskunks/AI_Research/tree/main/dc-gan-best-practices)
 2. Implementation of Progressively Growing GAN in keras. This work maily attempts to implement progressively growing GAN architectural training. This work is an extension to DC-GANs as it follows the path of best practices to train a GAN effectively. The project is open-sourced [here](https://github.com/aiskunks/AI_Research/tree/main/growing-gan-best-practices)
 
