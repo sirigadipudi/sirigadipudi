@@ -13,8 +13,13 @@ As an AI Master's student at Khoury College of Computer Sciences, my work can be
 
 3. Denoising Diffusion Model architecure with Markov Additive Noise Process. This work is the state-of-the-art implementation of denoising model in PyTorch. Our work has generated hyper-realisitic fake images of animals and human faces. The results can be found [here](https://github.com/aiskunks/AI_Research/tree/main/diffusion-model-best-practices)
 
+4. Deep Reinforcement Learning with Double Deep-Q Networks for function approximation to learn Atari Games (Space Invaders). This work uses openAI gym library for game environment and keras for deep architectures. The code repository can be found [here](https://github.com/RohitGandikota/Deep-Reinforcement-Learning-with-Double-Q-Networks-on-Atari-Games)
+
 ### AI for Health (Research Scientist)
 1. Prediction of efficacy and Overall survivability of drugs using state-of-the-art data interpretation models. This work is being carried out remotely for Northeastern Seattle Campus. 
+
+### Course Projects
+Coming Soon ....
 
 # Research at Indian Space Research Organization
 As a scientist at National Remote Sensing Center, ISRO, my primary research interest includes deep learning, image processing, data analysis, and natural language processing.
