@@ -3,8 +3,10 @@ layout: page
 title: List of Publications
 permalink: /publications/
 ---
-Here is an updated list of my publications as of 19th January, 2022. 
+Here is an updated list of my publications as of 30th September, 2022. 
 ## Accepted Publications
+- R. Gandikota, Nik Brown. "Pro-DDPM: Progressive Growing of Variable Denoising Diffusion Probabilistic Models for Faster Convergence", accepted at 2022 33rd British Machine Vision Conference (BMVC'22) [[**Source Code**]](https://github.com/RohitGandikota/progressive-diffusion)
+
 -  R. Gandikota , D. Mishra. "DisMon-GAN: A 24X7 All-Weather Optical Domain Surveillance using Progressively Growing Adversarial Networks with Patch based Discriminator", accepted at 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22) [[**Source Code**]](https://github.com/RohitGandikota/DisMonGAN-SAR2Optical-Translation-for-Disaster-Monitoring)  
 
 -  R. Gandikota , M. M. "Pixel Noise Localization Algorithm for Indian Satellite Data Quality Control: A Novel Approach", accepted at 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS'22) [[**Source Code**]](https://github.com/RohitGandikota/Automatic-Image-Quality-Analysis/blob/main/pixelNoiseDetection.py)    
@@ -24,8 +26,6 @@ Computer Vision & Image Processing (CVIP'22) [[**Source Code**]](https://github.
 
 - R.Gandikota, D. Mishra, "Share-GAN: A Novel Shared Task Training in Generative Adversarial Networks for Data Hiding", accepted at 7th International Conference on Computer Vision & Image Processing (CVIP'22) 
 
-## Publications Under Review
-- R. Gandikota, "Work on Diffusion Models", double-blind tier 1 computer vision conference. 
 ## Publications In Process
 -  R. Gandikota, "Class-Net: A Novel Deep Learning Architecture with Peer-Learning"
     
