@@ -7,6 +7,11 @@ This is my portfolio of significant research projects. Feel free to reach out to
 
 # Research at Northeastern University
 As an AI Master's student at Khoury College of Computer Sciences, my work can be segregated into 3 sub-research groups
+
+### Bau Lab (Generative AI Researcher)
+1. Erasing Concepts from Diffusion Models: In this work, we aim to erase artistic styles, copyrighted images and harmful content from the diffusion model weights using their own knowledge. Given just the text of the concept to be erased, our method can edit the model weights to erase the concept while minimizing the inteference with other concepts. This type of fine-tuning has an advantage over previous methods: it is not easy to circumvent because it modifies weights, yet it is fast and practical because it avoids the expense of retraining the whole model on filtered training data. [Project Website](https://erasing.baulab.info)
+2. Collaboration to work on Lighting editing using Diffusion models. This work is collaboration with the amazing team at Signify research. We aim to explore the applications of diffusion models in relighting the scenes.
+
 ### AISkunkWorks@NEU (Volunteer Research Student Club)
 1. Best Practices to implement DC-GAN (Deep Convolutional Generative Adversarial Networks). This work primarily focuses on various challenges that come with training a DC-GAN for procedural content generation. The work also concentrates on training tricks and architectural recommendations for an efficient model on a personal laptop. The research paper and code can be found [here](https://github.com/aiskunks/AI_Research/tree/main/dc-gan-best-practices)
 2. Implementation of Progressively Growing GAN in keras. This work maily attempts to implement progressively growing GAN architectural training. This work is an extension to DC-GANs as it follows the path of best practices to train a GAN effectively. The project is open-sourced [here](https://github.com/aiskunks/AI_Research/tree/main/growing-gan-best-practices)
@@ -18,8 +23,6 @@ As an AI Master's student at Khoury College of Computer Sciences, my work can be
 ### AI for Health (Research Scientist)
 1. Prediction of efficacy and Overall survivability of drugs using state-of-the-art data interpretation models. This work is being carried out remotely for Northeastern Seattle Campus. 
 
-### Course Projects
-Coming Soon ....
 
 # Research at Indian Space Research Organization
 As a scientist at National Remote Sensing Center, ISRO, my primary research interest includes deep learning, image processing, data analysis, and natural language processing.
