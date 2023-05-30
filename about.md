@@ -4,22 +4,22 @@ title: About
 permalink: /about/
 ---
 
-I am currently working as a Scientist at the National Remote Sensing Center, Indian Space Research Organization. My primary research interests are generative adversarial networks, deep learning theory, computer vision, and neural network architecture design. At ISRO, I design and develop solutions for remote sensing applications. My significant projects involve RTC-GAN for semantic segmentation of satellite images, NLP solutions for smart search in bhoonidhi, Advanced Disaster Monitoring Tool, and Automatic Product Quality Evaluation Software.
+I love to explore and understand the working of generative models in deep learning. I am a master's student at Khoury College of Computer Sciences majoring in Artificial Intelligence. I am working with Prof. David Bau of Northeastern University and collaborating with Prof. Antonio Torralba group of MIT as a graduate researcher in the field of generative models. My research in diffusion models and GANs has been published at top ML conferences. 
 
-I received my undergraduate degree in Electronics and Communications Engineering with a specialization in Avionics from the [Indian Institute of Space Science and Technology](https://www.iist.ac.in/). The courses I have taken here at IIST, including Calculus, Statistics, Pattern Recognition, Image Processing, and Deep Learning, helped me understand machine learning algorithms' fundamental working and mathematical formulations. At IIST, my passion for machine learning (deep learning in specific) has started and matured into a research phase. My primary research activities focused on:
-- Understanding Convolutional Neural Networks by backtracking the neuron activations to visualize the vital pixels in the input image responsible for classification. 
-- Designing novel Generative Adversarial Network (GAN) architectures to hide audio and video data inside images [[**National Award for innovation by Indian National Academy of Engineering**]](RohitGandikota.github.io/awards)
-- Image processing and computer vision algorithms for Autonomous vehicles 
-- Deep Reinforcement Learning for image detection application
-- Developing computer vision and NLP solutions for improving life on campus (Activity carried out as a part of AIML club)
+I worked as a scientist at the Indian Space Research Organization, where my research was focused on applications of generative models in remote sensing. I was responsible for developing deep-learning solutions for satellite data applications. I am also involved in designing advanced image processing techniques to process and evaluate satellite images and developed a smart interactive voice-based search using NLP solutions for ordering satellite data on ISRO's open data portal, Bhoonidhi.
 
+My bachelor's major is in E.C.E with a specialization in Avionics from the Indian Institute of Space science and Technology, where I, along with a few other students, founded the AI group of IIST. My final year thesis on developing deep generative model architectures for applications in data hiding has been recognized by the Indian National Academy of Engineering and was conferred with the "Best innovative computer science BTech thesis" award in India. I received a prestigious national award for work in data hiding. I also received a full-tuition scholarship from the Department of Space, Govt. of India, for undergraduate studies. 
 
-Upon graduation, I joined the National Remote Sensing Center of the Indian Space Research Organization as a Scientist. My primary research focuses on:
-- Developing solutions for remote sensing applications like road detection, cloud & water layer generation, land use land cover classification, ship detection, etc., using deep learning approaches. The model achieved a testing accuracy of 91% over Indian remote sensing satellites, a first of its kind. 
-- Time series analysis and EDA to analyze the production chain of satellite image generation and modeling optimization techniques for improving the efficiency by a factor of ~20. 
-- Advanced image processing algorithms for automatic satellite image quality assessment. 
-- NLP solutions for voice-based smart interactive search and ordering of satellite images from ISRO's open data portal, Bhoonidhi. Provided an API package for the same on PyPI
+Experience:
+6+ years in python programming
+4+ years in deep learning and computer vision research
+2+ years at Intel as a Student Ambassador for the AI program
+3 years at the Indian Space Research Organisation
 
+Python programming:
+Pytorch, Keras, Tensorflow, SciKit, Scipy, PIL, OpenCV, Plotly, Seaborn, Pandas, Numpy, Pyspark
+
+DevOps: Google Cloud Platform, Docker, Kubernetes, Airflow, AWS, Big query, Streamlit
 
 ### Contacting me
 Feel free to reach out to me if you need some additional information/context for my projects.  
