@@ -3,7 +3,7 @@ layout: page
 title: Awards and Honours
 permalink: /awards/
 ---
-I was very fortunate to have worked with my incredible advisors Dr. Nik Bear Brown and Dr. Deepak Mishra. This section is possible because of my excellent professors, advisors, family, and friends, whom I am very grateful for. 
+I was very fortunate to have worked with my incredible advisors Dr. David Bau, Dr. Nik Bear Brown and Dr. Deepak Mishra. This section is possible because of my excellent professors, advisors, family, and friends, whom I am very grateful for. 
 
 ### Best Innovative BTech Thesis Award by Indian National Academy of Engineering, 2019.
 A prestigious award presented to the best computer science B.Tech thesis in India. Received this award for exploring the application of deep learning models in data hiding. [[**Link**]](https://www.inae.in/recipients-of-innovative-student-projects-award/)
