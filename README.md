@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Siri Gadipudi. I am a student pursuing Master of Science in Electrical and Computer Engineering at the University of Washington, Seattle. 
+
+I am currently working on a deep robotic learning project.
 
 <!--
 **sirigadipudi/sirigadipudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
