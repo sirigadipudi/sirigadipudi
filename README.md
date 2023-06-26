@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 How to reach me: **sg06@uw.edu**
+- My personal website: **https://sirigadipudi@github.io**
