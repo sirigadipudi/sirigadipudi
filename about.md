@@ -4,11 +4,19 @@ title: About
 permalink: /about/
 ---
 
-I love to explore and understand the working of generative models in deep learning. I am a master's student at Khoury College of Computer Sciences majoring in Artificial Intelligence. I am working with Prof. David Bau of Northeastern University and collaborating with Prof. Antonio Torralba group of MIT as a graduate researcher in the field of generative models. My research in diffusion models and GANs has been published at top ML conferences. 
+I am a Ph.D. candidate at Northeastern University, where I research techniques to interpret, control, and align rapidly advancing generative AI systems with human values and ethics. This work is critical as models like DALL-E 2 and GPT-3 surpass human levels on many benchmarks.
 
-I worked as a scientist at the Indian Space Research Organization, where my research was focused on applications of generative models in remote sensing. I was responsible for developing deep-learning solutions for satellite data applications. I am also involved in designing advanced image processing techniques to process and evaluate satellite images and developed a smart interactive voice-based search using NLP solutions for ordering satellite data on ISRO's open data portal, Bhoonidhi.
+My passion for unraveling the mysteries of neural networks started during my undergraduate studies. For my honors thesis, I developed novel activation maximization methods that could visually highlight which pixels most influenced a convolutional neural network's image classifications. My work revealed the surprising ways these models "saw" images differently than humans. This pioneering research earned me the "Best Innovative Computer Science Thesis in India" award, as judged by a national panel of experts.
 
-My bachelor's major is in E.C.E with a specialization in Avionics from the Indian Institute of Space science and Technology, where I, along with a few other students, founded the AI group of IIST. My final year thesis on developing deep generative model architectures for applications in data hiding has been recognized by the Indian National Academy of Engineering and was conferred with the "Best innovative computer science BTech thesis" award in India. I received a prestigious national award for work in data hiding. I also received a full-tuition scholarship from the Department of Space, Govt. of India, for undergraduate studies. 
+I then broke ground by creating the first techniques to hide secret messages inside generative models like GANs and VAEs. My architectures could imperceptibly encode text, audio, and even video into generated images. Previous information hiding methods struggled with deep learning's complexity, but I achieved an astonishing signal quality of 62dB PSNR using my approach. This represented a major breakthrough in deep learning-based multimedia steganography.
+
+At the Indian Space Research Organization, I leveraged my AI expertise to create positive societal impact. I built the first deep generative model integrated into their production pipeline, enabling continuous disaster monitoring from satellite data. During severe floods in 2021, my system provided clear aerial visibility even with heavy cloud cover. This assisted emergency response teams in efficiently rescuing victims and demonstrated the life-saving potential of applied AI.
+
+I also significantly optimized ISRO's satellite image production pipeline using deep reinforcement learning and published image processing algorithms. My contributions reduced manual verification work by 97% and sped up the pipeline 5-fold. This increased delivery capacity 2.4x during critical times.
+
+With 6 years of experience building, training, and deploying large neural networks in frameworks like PyTorch, I now aim to create an "atlas of artificial intelligence" that systematically catalogs capabilities, relationships, and vulnerabilities of AI systems. Just as anatomists mapped the human body, I hope to illuminate the inner workings of artificial intelligence to ensure its safe, ethical advancement.
+
+My research has been published at top venues including ICCV, BMVC, and IGARSS. I serve as an invited reviewer for the IEEE Transactions on Information Forensics & Security journal. I feel privileged to continue expanding the frontiers of this field as a Ph.D. candidate under Prof. David Bau at Northeastern University.
 
 Experience:
 6+ years in python programming
