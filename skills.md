@@ -4,7 +4,45 @@ title: Skills
 permalink: /skills/
 ---
 
-The skills I bring to the table:    
-- Python: learned the application of Python data structures through data preparation and exploration in Pandas; developed advanced skills in Keras and TensorFlow libraries for deep learning model development; worked with SciPy, Sci-kit, Numba, PIL, Opencv libraries for algorithm design; explored Plotly and Seaborn packages for data visualization; explored concepts of string manipulation and regular expressions
-- SQL/PostgreSQL: Learnt data profiling, data design, data mining, data manipulation, and retrieval on the fly; worked with organization level databases for production and research activities
-- Statistics: developed skills in inferential and predictive statistics, such as correlation and regression
+**Domain:** 
+- Machine Learning,
+- Deep learning,
+- Computer Vision,
+- Deep Reinforcement Learning,
+- Robotics,
+- Generative AI
+
+**Programming Languages:** 
+- Python, MATLAB, C++, C, Java, SQL
+
+**Data Science and Analytics:** 
+- MySQL, Power BI, Tableau, MongoDB, Pandas, Seaborn, Matplotlib, REST API
+
+**Machine Learning and Development:** 
+- PyTorch, Tensorflow, JAX, ROS, Bash, Linux, OpenCV, Git, Azure ML, AWS
+
+**Other Development Tools** 
+- Open AI Gym, MuJoCo, PLECS, Simulink, Qiskit, LabView, HFSS, Qt, LaTeX, HTML, Arduino, GitHub, Docker, Open 3D
+
+**Key Coursework:** 
+
+- Probability and Stochastic Processes,
+- Advanced Machine Learning,
+- Deep Learning,
+- AI-based Mobile Robotics,
+- Deep Reinforcement Learning,
+- Computer Vision,
+- Robot Manipulation,
+- Database Management Systems,
+- Generative AI and LLMs, NLP
+
+**Certifications:** 
+
+1. Fundamentals of Digital Image and Video Processing (Coursera)
+2. Remote Sensing Image Acquisition (Coursera)
+3. Machine Learning (Coursera)
+4. Python Programming (Coursera)
+5. Qiskit Global Summer School (IBM)
+6. Introduction to Large Language Models (Google)
+7. Introduction to Generative AI (Google)
+
