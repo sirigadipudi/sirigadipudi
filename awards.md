@@ -4,7 +4,7 @@ title: Awards
 permalink: /awards/
 ---
 
-### Best Innovative BTech Thesis Award by Indian National Academy of Engineering, 2020.
+### Best Innovative B-Tech Thesis Award by Indian National Academy of Engineering, 2020.
 Received this award for the Best Project in the Energy category. [[**Link**]](https://www.inae.in/recipients-of-innovative-student-projects-award/)
 
 ### Winner of 3-Minute Project Presentations competition held by IEEE Kerala Chapter, 2020.
