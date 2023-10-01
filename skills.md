@@ -16,7 +16,7 @@ permalink: /skills/
 ## Programming Languages
 - Python, MATLAB, C++, C, Java, SQL
 
-## Data Science and Analytics:** 
+## Data Science and Analytics: 
 - MySQL, Power BI, Tableau, MongoDB, Pandas, Seaborn, Matplotlib, REST API
 
 ## Machine Learning and Development
