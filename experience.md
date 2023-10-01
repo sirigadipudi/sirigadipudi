@@ -49,7 +49,6 @@ permalink: /experience/
 **Project:** Human-Guided Interventions for Reset-free Autonomous Reinforcement Learning
 
 **Overview:** 
-# Reset-free Reinforcement Learning
 - Designing a novel methodology to introduce human-guided interventions for reset-free RL algorithms, enabling efficient autonomous robotic learning.
 - Achieved 5% higher performance and ease of implementing deep RL algorithms for visual observations by developing a tracker module using object segmentation models (SAM and FC-CLIP) customized for object tracking.
 
