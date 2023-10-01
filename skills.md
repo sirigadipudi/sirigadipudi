@@ -12,7 +12,6 @@ permalink: /skills/
 - Robotics,
 - Generative AI
 
-# Skills
 ## Programming Languages
 - Python, MATLAB, C++, C, Java, SQL
 
