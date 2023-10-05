@@ -23,11 +23,23 @@ body {
   color: $darkGray;
 }
 
+// .container {
+//   margin: 0 auto;
+//   max-width: 380px;
+//   padding: 0 10px;
+//   width: 50%;
+// }
+
 .container {
   margin: 0 auto;
   max-width: 380px;
   padding: 0 10px;
-  width: 50%;
+  width: 35%;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
 }
 
 h1, h2, h3, h4, h5, h6, h7 {
