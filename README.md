@@ -2,13 +2,13 @@
 
 I am Siri Gadipudi. I am a student pursuing Master of Science in Electrical and Computer Engineering at the University of Washington, Seattle. 
 
-- 🔭 I am currently working on a deep robotic learning project that enables autonomous robotic learning with a novel reset-free reinforcement learning framework. Happy to chat about research topics that align with my interests. 
+- 🔭 I am currently working on a deep reinforcement learning project that enables reset-free autonomous robotic learning with human-guided interventions. Happy to chat about research topics that align with my interests. 
 
 - ⚡ I am looking for full time job opportunities that start after March 2024, specifically roles: AI/ML Engineer, Data Scientist, Robotics Engineer and Applied Scientist.
 
 - 🌱 I'm currently learning Natural Language Processing, Data Management and Data Analysis.
 
-- 😄 Fun fact: I am an avid reader (only Fiction), coffee addict and an amateur runner.
+- 😄 Fun fact: I am an avid reader, coffee addict and an amateur runner.
 
 <!--
 **sirigadipudi/sirigadipudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
